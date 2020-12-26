@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc1621eb-041d-4904-bfe9-99a082f69e1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/services/book-service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/book-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daos/books-dao.js" beforeDir="false" afterPath="$PROJECT_DIR$/daos/books-dao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/book-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/book-service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607703821322</updated>
       <workItem from="1607703822975" duration="4003000" />
-      <workItem from="1609025296604" duration="529000" />
+      <workItem from="1609025296604" duration="730000" />
     </task>
     <servers />
   </component>
