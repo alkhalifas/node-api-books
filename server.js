@@ -26,7 +26,7 @@ mongoose.connect('<DATABASE_URL>',
                  {useNewUrlParser: true,
                      useUnifiedTopology: true});
 
-require("./controllers/controller")(app);
+require("./controllers/book-controller")(app);
 
 app.listen(process.env.PORT || 3000, () =>
     console.log("Server is running @3000 ...")

@@ -1,13 +1,13 @@
-const bookService = require('../services/book.service.server')
+const booksService = require('../services/book-service')
 
 module.exports = function (app) {
 
-    app.get('/api/books/', (req, res) =>
-        bookService.findAllBooks()
+    app.get('/api/v1/books/', (req, res) =>
+        booksService.findAllBooks()
             .then(allBooks => res.json(allBooks)));
 
-    app.get('/api/books/:bid', (req, res) =>
-        bookService.findBooksById(req.params['bid'])
+    app.get('/api/v1/books/:bid', (req, res) =>
+        booksService.findBooksById(req.params['bid'])
             .then(book => res.json(book)));
 
     // const documentation = (req, res) => {
