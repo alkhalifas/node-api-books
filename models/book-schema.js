@@ -7,6 +7,5 @@ const bookSchema = mongoose.Schema({
     type: {
         type: String,
         enum: ['HARD_COVER', 'SOFT_COVER', 'E_BOOK']},
-    choices: [String]
 }, {collection: 'books'});
 module.exports = bookSchema;

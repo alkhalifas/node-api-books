@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc1621eb-041d-4904-bfe9-99a082f69e1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/daos/books-dao.js" beforeDir="false" afterPath="$PROJECT_DIR$/daos/books-dao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/books.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/book-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/book-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daos/books-dao.js" beforeDir="false" afterPath="$PROJECT_DIR$/daos/book-dao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/book-model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/book-model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/book-schema.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/book-schema.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/book-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/book-service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +57,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SshConsoleOptionsProvider">
@@ -64,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607703821322</updated>
       <workItem from="1607703822975" duration="4003000" />
-      <workItem from="1609025296604" duration="730000" />
+      <workItem from="1609025296604" duration="6672000" />
     </task>
     <servers />
   </component>

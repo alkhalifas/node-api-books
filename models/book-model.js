@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
-const bookSchema = require('./books-schema');
+const bookSchema = require('./book-schema');
 const bookModel = mongoose.model(
-    'BooksModel',
+    'BookModel',
     bookSchema
 );
 module.exports = bookModel;

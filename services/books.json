@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "5fe7cf66c88fa116803c008c",
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "pubDate": "1936-06-30T16:00:00.000Z",
+    "edition": 1,
+    "type": "HARD_COVER"
+  },
+  {
+    "_id": "5fe7cfc1c88fa116803c008d",
+    "title": "To Kill A Mocking Bird",
+    "author": "Harper Lee",
+    "pubDate": "1960-07-11T16:00:00.000Z",
+    "edition": 2,
+    "type": "HARD_COVER"
+  },
+  {
+    "_id": "5fe7d014c88fa116803c008e",
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "pubDate": "1937-09-21T16:00:00.000Z",
+    "edition": 3,
+    "type": "SOFT_COVER"
+  },
+  {
+    "_id": "5fe7d050c88fa116803c008f",
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "pubDate": "1964-01-17T17:00:00.000Z",
+    "edition": 3,
+    "type": "HARD_COVER"
+  },
+  {
+    "_id": "5fe7d087c88fa116803c0090",
+    "title": "Atkins Physical Chemistry",
+    "author": "Peter Atkins",
+    "pubDate": "2018-02-28T17:00:00.000Z",
+    "edition": 11,
+    "type": "HARD_COVER"
+  },
+  {
+    "_id": "5fe7d0b0c88fa116803c0091",
+    "title": "Origin",
+    "author": "Dan Brown",
+    "pubDate": "2017-10-03T16:00:00.000Z",
+    "edition": 2,
+    "type": "E_BOOK"
+  }
+]

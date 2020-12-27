@@ -22,9 +22,9 @@ app.use(
 );
 app.options('*', cors());
 
-mongoose.connect('<DATABASE_URL>',
-                 {useNewUrlParser: true,
-                     useUnifiedTopology: true});
+mongoose.connect('mongodb+srv://mrspacman:vintagegames1993@snippetcluster0.ojztr.mongodb.net/books?retryWrites=true&w=majority',
+    {useNewUrlParser: true,
+        useUnifiedTopology: true});
 
 require("./controllers/book-controller")(app);
 
