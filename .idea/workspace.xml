@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc1621eb-041d-4904-bfe9-99a082f69e1b" name="Default Changelist" comment="" />
+    <list default="true" id="dc1621eb-041d-4904-bfe9-99a082f69e1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/crud.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/endpoints.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/stack.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/structure.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607703821322</updated>
       <workItem from="1607703822975" duration="4003000" />
-      <workItem from="1609025296604" duration="6976000" />
+      <workItem from="1609025296604" duration="9230000" />
     </task>
     <servers />
   </component>
