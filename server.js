@@ -22,7 +22,7 @@ app.use(
 );
 app.options('*', cors());
 
-mongoose.connect('mongodb+srv://mrspacman:vintagegames1993@snippetcluster0.ojztr.mongodb.net/books?retryWrites=true&w=majority',
+mongoose.connect('mongodb+srv://<Username>:<Password>@<ClusterName>.ojztr.mongodb.net/<Collection>?retryWrites=true&w=majority',
     {useNewUrlParser: true,
         useUnifiedTopology: true});
 

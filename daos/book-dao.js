@@ -7,4 +7,11 @@ const deleteBookById = (bid) => bookModel.deleteOne({_id: bid});
 const addNewBook = (newBook) => bookModel.create(newBook);
 const updateBook = (bid, updatedBook) => bookModel.updateOne({_id: bid}, {$set: updatedBook});
 
-module.exports = { findAllBooks, findBooksById, findBookByAuthor, deleteBookById, addNewBook, updateBook }
+module.exports = {
+    findAllBooks,
+    findBooksById,
+    findBookByAuthor,
+    deleteBookById,
+    addNewBook,
+    updateBook
+}

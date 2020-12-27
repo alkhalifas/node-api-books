@@ -6,6 +6,10 @@ const bookSchema = mongoose.Schema({
     edition: Number,
     type: {
         type: String,
-        enum: ['HARD_COVER', 'SOFT_COVER', 'E_BOOK']},
+        enum: [
+            'HARD_COVER',
+            'SOFT_COVER',
+            'E_BOOK'
+        ]},
 }, {collection: 'books'});
 module.exports = bookSchema;

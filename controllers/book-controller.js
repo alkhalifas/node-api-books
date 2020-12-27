@@ -26,10 +26,4 @@ module.exports = function (app) {
         bookService.updateBook(req.params['bid'], req.body)
             .then(status => res.send(status)));
 
-    // const documentation = (req, res) => {
-    //     //     res.sendFile('documentation.html', {root: __dirname })
-    //     // };
-    //     //
-    //     // app.get("/", documentation);
-
 };
