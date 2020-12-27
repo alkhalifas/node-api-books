@@ -1,7 +1,7 @@
 # Develop and Deploy a Scalable RESTful API using Node.js & Mongo.
 
 
-##[Check out the Medium Article!](https://alkhalifas.medium.com/develop-and-deploy-a-scalable-restful-api-using-nodejs-mongo-232ad79e0f6c)
+[Check out the Medium Article!](https://alkhalifas.medium.com/develop-and-deploy-a-scalable-restful-api-using-nodejs-mongo-232ad79e0f6c)
 
 ## Full Crud Operations:
 
